@@ -69,3 +69,12 @@ To classify patients into meaningful groups (diagnoses severity, age group, admi
  - Preventive care strategies should focus on critical-risk groups: seniors, patients with 3+ prior admissions, and those with severe diagnoses.
 
  - Monitoring blood pressure and sugar levels can help reduce readmission rates
+
+## 🛠️ Tools Used:
+🧠 Miro — Used for workflow design
+
+📊 Excel — Used for data cleaning, exploration, and preliminary analysis
+
+❄️ Snowflake — Used for data storage, querying, and analytical processing
+
+🎨 Canva — Used for presentation materials
